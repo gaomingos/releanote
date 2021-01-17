@@ -1,0 +1,23 @@
+{
+  "name": "leanote-front-end-builder",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "",
+    "gulp-inject": "",
+    "gulp-minify-html": "^1.0",
+    "gulp-rename": "^1.0",
+    "gulp-replace": "",
+    "gulp-sequence": "",
+    "gulp-uglify": "^1.0.0",
+    "gulp-util": "^3.0.1",
+    "gulp-minify-css": ""
+  },
+  "author": "life(http://life.leanote.com)",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/leanote/leanote/issues"
+  }
+}
